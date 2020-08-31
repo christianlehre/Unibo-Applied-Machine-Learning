@@ -1,2 +1,2 @@
 # Unibo-Applied-Machine-Learning
-Repo for the assignment in the course Applied Machine Learning Basic at Univeristy of Bologna (Unibo)
+This repo contains a google colab notebook for the project assignment in the course Applied Machine Learning - Basic at the University of Bologna
